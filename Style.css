@@ -1,0 +1,51 @@
+h1 {
+    color: whitesmoke;
+
+    border-style: groove;
+    border: width 10px;
+    margin-right: 900px;
+    margin-left: 200;
+    border-color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: left;
+}
+
+a {
+    color: rgb(247, 6, 6);
+    text-align: justify;
+    background-color: rgba(238, 214, 214, 0.5);
+    padding: 10px 10px;
+}
+
+a:link {
+    color: rgba(214, 9, 9, 0.932);
+}
+
+a:hover {
+    color: white;
+    background-color: red;
+}
+
+body {
+    color: whitesmoke;
+    text-align: left;
+    background-image: url("Images/JJ12.jpg");
+    background-size: 625px 700px;
+    background-repeat: no-repeat;
+}
+
+p {
+    color: whitesmoke;
+    text-align: left;
+
+}
+
+footer {
+    color: whitesmoke;
+    text-align: left;
+    text-decoration-line: underline;
+}
